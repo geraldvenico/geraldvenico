@@ -19,3 +19,8 @@
 ![Pac-Man](https://raw.githubusercontent.com/geraldvenico/gvenico/output/pacman.svg)
 
 ---
+
+### 📊 GitHub Stats
+
+![Gerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geraldvenico&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldvenico&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
