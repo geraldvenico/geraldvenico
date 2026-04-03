@@ -16,7 +16,7 @@
 
 ### 🟡 Pac-Man Contribution Graph
 
-![Pac-Man](https://raw.githubusercontent.com/geraldvenico/gvenico/output/pacman.svg)
+![Pac-Man](https://raw.githubusercontent.com/geraldvenico/geraldvenico/output/pacman.svg)
 
 ---
 
