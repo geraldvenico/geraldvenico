@@ -8,6 +8,12 @@
 
 ---
 
+- 🌱 I'm currently learning **AI API Integration**, **Modern CSS (Container Queries & Subgrid)**, **Database Literacy (SQL & NoSQL)**, and **Soft Skills: Technical Communication**
+- 💬 Ask me about **building full-stack applications with React and Python**
+- ⚡ Fun fact **Was going to pursue music/photography until code got me first**
+
+---
+
 ### 🧰 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,php,html,css,tailwind,bootstrap,react,nextjs,vue,vite,express,docker,githubactions,mongodb,vscode,nodejs,postman,git,postgres,ubuntu,linux,windows&theme=dark)](https://skillicons.dev)
@@ -17,10 +23,3 @@
 ### 🟡 Pac-Man Contribution Graph
 
 ![Pac-Man](https://raw.githubusercontent.com/geraldvenico/geraldvenico/output/pacman.svg)
-
----
-
-### 📊 GitHub Stats
-
-![Gerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geraldvenico&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldvenico&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
