@@ -14,7 +14,7 @@
 
 ### 🌊 Contribution Graph
 
-![Ocean Wave](https://raw.githubusercontent.com/geraldvenico/gvenico/output/github-contribution-grid-snake.svg)
+![Ocean Wave](https://raw.githubusercontent.com/geraldvenico/gvenico/output/ocean.svg)
 
 ---
 
