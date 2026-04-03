@@ -14,17 +14,17 @@
 
 ### 🌊 Contribution Graph
 
-![Ocean Wave](https://raw.githubusercontent.com/gvenico/gvenico/output/github-contribution-grid-snake.svg)
+![Ocean Wave](https://raw.githubusercontent.com/geraldvenico/gvenico/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Gerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvenico&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvenico&layout=compact&theme=tokyonight&hide_border=true)
+![Gerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geraldvenico&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldvenico&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 👁️ Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=gvenico&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=geraldvenico&color=blue&style=flat)
