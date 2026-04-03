@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gerald+Venico+👋;Junior+Developer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=geraldvenico&color=blue&style=flat)
+
 ---
 
 > *"Fell into tech by accident. Turns out, I kind of love it."*
@@ -17,7 +19,3 @@
 ![Pac-Man](https://raw.githubusercontent.com/geraldvenico/gvenico/output/pacman.svg)
 
 ---
-
-### 👁️ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=geraldvenico&color=blue&style=flat)
